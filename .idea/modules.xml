@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_common/linkhealthy_common.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_common/linkhealthy_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_manager/linkhealthy_manager.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_manager/linkhealthy_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_parent.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_parent.iml" />
+    </modules>
+  </component>
+</project>
