@@ -2,7 +2,13 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/linkhealthy_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_certificate" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_seal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_workweixin" charset="UTF-8" />
   </component>
 </project>

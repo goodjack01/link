@@ -1,5 +1,4 @@
 cn\linksign\dto\StatusCode.class
-cn\linksign\CommonApplication.class
 cn\linksign\dto\Result.class
 cn\linksign\dto\PageResult.class
 cn\linksign\util\PhoneFormatCheckUtils.class

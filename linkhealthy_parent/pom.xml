@@ -9,10 +9,14 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>linkhealthy_common</module>
         <module>linkhealthy_manager</module>
+        <module>linkhealthy_eureka</module>
+        <module>linkhealthy_admin</module>
+        <module>linkhealthy_user</module>
+        <module>linkhealthy_certificate</module>
+        <module>linkhealthy_seal</module>
+        <module>linkhealthy_workweixin</module>
     </modules>
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -58,6 +62,13 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
+            <dependency>
+                <groupId>cn.linksign</groupId>
+                <artifactId>linkhealthy_common</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

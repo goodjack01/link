@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_admin/linkhealthy_admin.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_admin/linkhealthy_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_certificate/linkhealthy_certificate.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_certificate/linkhealthy_certificate.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_common/linkhealthy_common.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_common/linkhealthy_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_eureka/linkhealthy_eureka.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_eureka/linkhealthy_eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_manager/linkhealthy_manager.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_manager/linkhealthy_manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_parent.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_seal/linkhealthy_seal.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_seal/linkhealthy_seal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_user/linkhealthy_user.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_user/linkhealthy_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkhealthy_parent/linkhealthy_workweixin/linkhealthy_workweixin.iml" filepath="$PROJECT_DIR$/linkhealthy_parent/linkhealthy_workweixin/linkhealthy_workweixin.iml" />
     </modules>
   </component>
 </project>
